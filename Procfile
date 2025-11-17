@@ -1,0 +1,1 @@
+web: gunicorn templates_demo_project.wsgi
